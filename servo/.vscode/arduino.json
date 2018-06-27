@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:POP-X2",
+    "port": "/dev/cu.Bluetooth-Incoming-Port",
+    "sketch": "servo.ino"
+}
